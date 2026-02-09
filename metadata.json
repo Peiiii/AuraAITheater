@@ -1,0 +1,7 @@
+{
+  "name": "Aura AI Theater",
+  "description": "A cinematic AI-powered creative workspace featuring a visual storyboard canvas and a multi-modal assistant for generating scripts, scenes, and visual concepts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
